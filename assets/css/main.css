@@ -1686,9 +1686,9 @@
 				margin: 0;
 			}
 	#banner2 {
-			background: #fff url("../../images/banner_juxt.jpg");
+			background: #fff url("../../images/chart1.png");
 			background-position: top left;
-			background-size: auto auto;
+			background-size: cover;
 			background-repeat: no-repeat;
 			text-align: center;
 			
